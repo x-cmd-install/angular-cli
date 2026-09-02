@@ -1,0 +1,62 @@
+about:
+  description: CLI tool for Angular
+  license: MIT
+  homepage: https://cli.angular.dev
+  head: 18e4b93
+  archived: false
+  latestVersion: v22.2.0-next.5
+  collectedAt: 2026-09-02T04:27:36Z
+timeline:
+  created: 2015-06-04
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-26
+popularity:
+  star: 27020
+  watcher: 969
+  fork: 11839
+  release: 1023
+  contributor: 693
+  pullRequest: 2688
+  issue: 16648
+language:
+  TypeScript: 6592380
+  Starlark: 116761
+  HTML: 51746
+  JavaScript: 35073
+  EJS: 12375
+  jq: 1674
+  CSS: 240
+totalLine: 6810249
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 15
+    mergedPR: 187
+    openPR: 6
+    closedIssue: 40
+    openIssue: 3
+    commit: 108
+  last90d:
+    since: 2026-06-04
+    release: 44
+    mergedPR: 488
+    openPR: 8
+    closedIssue: 120
+    openIssue: 9
+    commit: 343
+  last180d:
+    since: 2026-03-06
+    release: 83
+    mergedPR: 895
+    openPR: 16
+    closedIssue: 198
+    openIssue: 23
+    commit: 637
+  last360d:
+    since: 2025-09-07
+    release: 100
+    mergedPR: 2053
+    openPR: 19
+    closedIssue: 457
+    openIssue: 54
+    commit: 1532
