@@ -7,7 +7,7 @@ about:
   head: 8008e59
   archived: false
   latestVersion: v22.2.0-next.6
-  collectedAt: 2026-09-04T19:35:11Z
+  collectedAt: 2026-09-04T20:58:01Z
 timeline:
   created: 2015-06-04
   lastCommit: 2026-09-04
@@ -86,6 +86,49 @@ total:
   openIssue: 241
   commit: 18763
 ---
+path: /home/runner/.x-repo/github.com/angular/angular-cli
+collectedAt: 2026-09-04T20:58:14Z
+loc:
+  TypeScript:
+    code: 151158
+    comments: 24507
+    blanks: 26093
+    files: 1510
+  Yaml:
+    code: 15790
+    comments: 12
+    blanks: 1291
+    files: 4
+  Json:
+    code: 11431
+    comments: 0
+    blanks: 1
+    files: 226
+  JavaScript:
+    code: 925
+    comments: 221
+    blanks: 140
+    files: 28
+  Html:
+    code: 709
+    comments: 59
+    blanks: 37
+    files: 9
+  Css:
+    code: 0
+    comments: 3
+    blanks: 0
+    files: 7
+  Markdown:
+    code: 0
+    comments: 20148
+    blanks: 7345
+    files: 68
+total:
+  code: 181071
+  comments: 45043
+  blanks: 35039
+  files: 1852
 ---
 date: "2026-08-20T16:15:52Z"
 repo:
