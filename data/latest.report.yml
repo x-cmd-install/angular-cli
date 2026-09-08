@@ -5,7 +5,7 @@ about:
   head: 6b20983
   archived: false
   latestVersion: "v22.2.0-next.6"
-  collectedAt: 2026-09-08T01:36:50Z
+  collectedAt: 2026-09-08T04:24:44Z
 timeline:
   created: 2015-06-04
   lastCommit: 2026-09-07
@@ -85,7 +85,7 @@ total:
   commit: 18764
 ---
 path: /home/runner/.x-repo/github.com/angular/angular-cli
-collectedAt: 2026-09-08T01:37:19Z
+collectedAt: 2026-09-08T04:25:18Z
 loc:
   TypeScript:
     code: 151158
