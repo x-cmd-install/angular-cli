@@ -12,6 +12,28 @@ CLI tool for Angular
 x install angular-cli
 ```
 
+## Code insight
+
+Total: **181,192** lines of code across **1778** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 151,724 | 24,506 | 26,212 | 1511 |
+| Yaml | 16,402 | 12 | 1,333 | 4 |
+| Json | 11,432 | 0 | 1 | 226 |
+| JavaScript | 925 | 221 | 140 | 28 |
+| Html | 709 | 59 | 37 | 9 |
+
+## OpenSSF Scorecard
+
+Overall score: **8.3 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Signed-Releases** (-1/10) — no releases found
+
 ## Source
 
 - **Upstream**: <https://github.com/angular/angular-cli>
@@ -36,30 +58,19 @@ x install angular-cli
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 18 | 184 | 5 | 31 | 3 | 132 |
+| last60d | 2026-07-12 | 32 | 394 | 6 | 82 | 4 | 293 |
 | 90d | 2026-06-12 | 48 | 522 | 6 | 121 | 8 | 383 |
+| last180d | 2026-03-14 | 88 | 940 | 15 | 194 | 23 | 679 |
 | 360d | 2025-09-15 | 100 | 2060 | 18 | 456 | 55 | 1552 |
+| last720d | 2024-09-20 | 100 | 3844 | 18 | 1153 | 92 | 3352 |
 
-## Code size
+## Distribution status
 
-Total: **181,192** lines of code across **1778** files in the top 5 languages.
+Reported by **3** distros on [repology.org](https://repology.org/project/angular-cli). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| TypeScript | 151,724 | 24,506 | 26,212 | 1511 |
-| Yaml | 16,402 | 12 | 1,333 | 4 |
-| Json | 11,432 | 0 | 1 | 226 |
-| JavaScript | 925 | 221 | 140 | 28 |
-| Html | 709 | 59 | 37 | 9 |
-
-## OpenSSF Scorecard
-
-Overall score: **8.3 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
-- **Signed-Releases** (-1/10) — no releases found
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `22.1.7` | ✅ latest |
 
 ## Improve this data
 
@@ -70,4 +81,4 @@ Install metadata for angular-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:05:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:10:06Z._
