@@ -14,11 +14,11 @@ x install angular-cli
 
 ## Code insight
 
-Total: **181,192** lines of code across **1778** files in the top 5 languages.
+Total: **181,200** lines of code across **1778** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 151,724 | 24,506 | 26,212 | 1511 |
+| TypeScript | 151,732 | 24,506 | 26,211 | 1511 |
 | Yaml | 16,402 | 12 | 1,333 | 4 |
 | Json | 11,432 | 0 | 1 | 226 |
 | JavaScript | 925 | 221 | 140 | 28 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v22.2.0-next.7` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 1031 · **Merged PRs**: 14166 · **Open PRs**: 20 · **Closed issues**: 16415 · **Open issues**: 242 · **Commits**: 18803
+- **Releases**: 1031 · **Merged PRs**: 14167 · **Open PRs**: 21 · **Closed issues**: 16416 · **Open issues**: 241 · **Commits**: 18806
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 18 | 175 | 6 | 28 | 4 | 132 |
-| last60d | 2026-07-13 | 32 | 391 | 7 | 81 | 5 | 293 |
-| 90d | 2026-06-13 | 48 | 522 | 7 | 121 | 9 | 383 |
-| last180d | 2026-03-15 | 88 | 940 | 16 | 194 | 24 | 679 |
-| 360d | 2025-09-16 | 100 | 2048 | 19 | 454 | 55 | 1552 |
-| last720d | 2024-09-21 | 100 | 3842 | 19 | 1153 | 93 | 3350 |
+| 30d | 2026-08-12 | 18 | 176 | 7 | 29 | 3 | 135 |
+| last60d | 2026-07-13 | 32 | 392 | 8 | 82 | 4 | 296 |
+| 90d | 2026-06-13 | 48 | 523 | 8 | 122 | 8 | 386 |
+| last180d | 2026-03-15 | 88 | 941 | 17 | 195 | 23 | 682 |
+| 360d | 2025-09-16 | 100 | 2049 | 20 | 455 | 54 | 1555 |
+| last720d | 2024-09-21 | 100 | 3843 | 20 | 1154 | 92 | 3353 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for angular-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:27:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:32:07Z._
