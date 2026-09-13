@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,022 · **Forks**: 11,840 · **Open issues**: 16,657 · **Contributors**: 673
+- **Stars**: 27,023 · **Forks**: 11,840 · **Open issues**: 16,657 · **Contributors**: 673
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 16 | 165 | 9 | 29 | 3 | 135 |
-| last60d | 2026-07-14 | 32 | 384 | 10 | 81 | 4 | 296 |
-| 90d | 2026-06-14 | 48 | 522 | 10 | 122 | 8 | 386 |
-| last180d | 2026-03-16 | 88 | 937 | 19 | 194 | 23 | 682 |
-| 360d | 2025-09-17 | 100 | 2037 | 22 | 453 | 54 | 1555 |
-| last720d | 2024-09-22 | 100 | 3843 | 22 | 1154 | 92 | 3353 |
+| 30d | 2026-08-14 | 14 | 162 | 9 | 28 | 3 | 118 |
+| last60d | 2026-07-15 | 32 | 376 | 10 | 79 | 4 | 271 |
+| 90d | 2026-06-15 | 48 | 517 | 10 | 121 | 8 | 364 |
+| last180d | 2026-03-17 | 88 | 928 | 19 | 193 | 23 | 658 |
+| 360d | 2025-09-18 | 100 | 2031 | 22 | 452 | 54 | 1524 |
+| last720d | 2024-09-23 | 100 | 3838 | 22 | 1154 | 92 | 3353 |
 
 ## Distribution status
 
-Reported by **4** distros on [repology.org](https://repology.org/project/angular-cli). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/angular-cli). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -81,4 +81,4 @@ Install metadata for angular-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T04:25:54Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:40:53Z._
