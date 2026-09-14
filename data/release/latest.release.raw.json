@@ -40,5 +40,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/angular/angular-cli/tarball/v22.1.8",
   "zipball_url": "https://api.github.com/repos/angular/angular-cli/zipball/v22.1.8",
-  "body": "### @angular/build\n| Commit | Description |\n| -- | -- |\n| [![fix - a6e30fa378](https://img.shields.io/badge/a6e30fa378-fix-green)](https://github.com/angular/angular-cli/commit/a6e30fa378ef5f03b26cd2fcafff6bff2c47da80) | disable strictPort when port 0 is used in dev-server |\n| [![perf - 35a5d4aa49](https://img.shields.io/badge/35a5d4aa49-perf-orange)](https://github.com/angular/angular-cli/commit/35a5d4aa49011f83f58cdd30c3ae24a55bf0651c) | avoid full JSON parsing when updating sourcemap ignore list |\n| [![perf - 48cc43cbf2](https://img.shields.io/badge/48cc43cbf2-perf-orange)](https://github.com/angular/angular-cli/commit/48cc43cbf204c887b344b773045b5460265eaa14) | read rendered module length once per module in chunk optimizer (#34045) |\n"
+  "body": "### @angular/build\n| Commit | Description |\n| -- | -- |\n| [![fix - a6e30fa378](https://img.shields.io/badge/a6e30fa378-fix-green)](https://github.com/angular/angular-cli/commit/a6e30fa378ef5f03b26cd2fcafff6bff2c47da80) | disable strictPort when port 0 is used in dev-server |\n| [![perf - 35a5d4aa49](https://img.shields.io/badge/35a5d4aa49-perf-orange)](https://github.com/angular/angular-cli/commit/35a5d4aa49011f83f58cdd30c3ae24a55bf0651c) | avoid full JSON parsing when updating sourcemap ignore list |\n| [![perf - 48cc43cbf2](https://img.shields.io/badge/48cc43cbf2-perf-orange)](https://github.com/angular/angular-cli/commit/48cc43cbf204c887b344b773045b5460265eaa14) | read rendered module length once per module in chunk optimizer (#34045) |\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/angular/angular-cli/releases/386386556/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
