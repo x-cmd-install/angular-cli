@@ -47,30 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,023 · **Forks**: 11,840 · **Open issues**: 16,657 · **Contributors**: 673
+- **Stars**: 27,022 · **Forks**: 11,841 · **Open issues**: 16,658 · **Contributors**: 673
 
 ## Totals (cumulative)
 
-- **Releases**: 1031 · **Merged PRs**: 14167 · **Open PRs**: 23 · **Closed issues**: 16416 · **Open issues**: 241 · **Commits**: 18806
+- **Releases**: 1031 · **Merged PRs**: 14167 · **Open PRs**: 23 · **Closed issues**: 16416 · **Open issues**: 242 · **Commits**: 18806
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 14 | 162 | 9 | 28 | 3 | 118 |
-| last60d | 2026-07-15 | 32 | 376 | 10 | 79 | 4 | 271 |
-| 90d | 2026-06-15 | 48 | 517 | 10 | 121 | 8 | 364 |
-| last180d | 2026-03-17 | 88 | 928 | 19 | 193 | 23 | 658 |
-| 360d | 2025-09-18 | 100 | 2031 | 22 | 452 | 54 | 1524 |
-| last720d | 2024-09-23 | 100 | 3838 | 22 | 1154 | 92 | 3353 |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/angular-cli). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `22.1.8` | ✅ latest |
+| 30d | 2026-08-15 | 14 | 162 | 9 | 28 | 4 | 118 |
+| last60d | 2026-07-16 | 30 | 366 | 10 | 74 | 5 | 271 |
+| 90d | 2026-06-16 | 48 | 509 | 10 | 121 | 9 | 364 |
+| last180d | 2026-03-18 | 88 | 924 | 19 | 193 | 22 | 658 |
+| 360d | 2025-09-19 | 100 | 2027 | 22 | 449 | 55 | 1524 |
+| last720d | 2024-09-24 | 100 | 3832 | 22 | 1152 | 93 | 3344 |
 
 ## Improve this data
 
@@ -81,4 +73,4 @@ Install metadata for angular-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:40:53Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:45:10Z._
