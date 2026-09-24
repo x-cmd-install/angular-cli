@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v22.2.0-rc.0` (2026-09-10)
-- **Last commit**: 2026-09-22
+- **Latest**: `v22.2.0` (2026-09-23)
+- **Last commit**: 2026-09-23
 
 ## Popularity
 
-- **Stars**: 27,025 · **Forks**: 11,836 · **Open issues**: 16,669 · **Contributors**: 674
+- **Stars**: 27,025 · **Forks**: 11,836 · **Open issues**: 16,671 · **Contributors**: 674
 
 ## Totals (cumulative)
 
-- **Releases**: 1032 · **Merged PRs**: 14211 · **Open PRs**: 22 · **Closed issues**: 16427 · **Open issues**: 242 · **Commits**: 18848
+- **Releases**: 1034 · **Merged PRs**: 14217 · **Open PRs**: 25 · **Closed issues**: 16437 · **Open issues**: 234 · **Commits**: 18850
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 13 | 175 | 6 | 28 | 7 | 129 |
-| last60d | 2026-07-25 | 29 | 365 | 8 | 73 | 8 | 288 |
-| 90d | 2026-06-25 | 41 | 493 | 9 | 115 | 11 | 381 |
-| last180d | 2026-03-27 | 84 | 908 | 16 | 189 | 22 | 665 |
-| 360d | 2025-09-28 | 100 | 2019 | 21 | 445 | 54 | 1523 |
-| last720d | 2024-10-03 | 100 | 3820 | 21 | 1142 | 94 | 3328 |
+| 30d | 2026-08-25 | 15 | 175 | 9 | 28 | 8 | 131 |
+| last60d | 2026-07-26 | 31 | 371 | 11 | 74 | 9 | 290 |
+| 90d | 2026-06-26 | 43 | 495 | 12 | 113 | 11 | 383 |
+| last180d | 2026-03-28 | 83 | 914 | 19 | 191 | 22 | 667 |
+| 360d | 2025-09-29 | 100 | 2016 | 24 | 447 | 53 | 1525 |
+| last720d | 2024-10-04 | 100 | 3818 | 24 | 1138 | 94 | 3329 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for angular-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T04:45:23Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:34:49Z._
