@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,016 · **Forks**: 11,826 · **Open issues**: 16,697 · **Contributors**: 677
+- **Stars**: 27,017 · **Forks**: 11,827 · **Open issues**: 16,698 · **Contributors**: 677
 
 ## Totals (cumulative)
 
-- **Releases**: 1042 · **Merged PRs**: 14312 · **Open PRs**: 31 · **Closed issues**: 16481 · **Open issues**: 216 · **Commits**: 18928
+- **Releases**: 1042 · **Merged PRs**: 14312 · **Open PRs**: 31 · **Closed issues**: 16481 · **Open issues**: 217 · **Commits**: 18928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 11 | 138 | 21 | 29 | 12 | 79 |
-| last60d | 2026-08-12 | 29 | 320 | 23 | 60 | 13 | 233 |
-| 90d | 2026-07-13 | 43 | 536 | 23 | 113 | 14 | 385 |
-| last180d | 2026-04-14 | 85 | 942 | 27 | 200 | 22 | 677 |
-| 360d | 2025-10-16 | 100 | 1987 | 30 | 450 | 48 | 1461 |
-| last720d | 2024-10-21 | 100 | 3844 | 30 | 1143 | 87 | 3334 |
+| 30d | 2026-09-12 | 11 | 138 | 21 | 29 | 13 | 79 |
+| last60d | 2026-08-13 | 27 | 309 | 23 | 60 | 14 | 233 |
+| 90d | 2026-07-14 | 43 | 528 | 23 | 112 | 15 | 385 |
+| last180d | 2026-04-15 | 85 | 939 | 27 | 199 | 23 | 677 |
+| 360d | 2025-10-17 | 100 | 1980 | 30 | 450 | 49 | 1461 |
+| last720d | 2024-10-22 | 100 | 3843 | 30 | 1140 | 88 | 3323 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for angular-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:36:05Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:48:22Z._
