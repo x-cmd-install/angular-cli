@@ -14,11 +14,11 @@ x install angular-cli
 
 ## Code insight
 
-Total: **196,164** lines of code across **1849** files in the top 5 languages.
+Total: **196,887** lines of code across **1850** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 166,546 | 26,332 | 28,612 | 1580 |
+| TypeScript | 167,269 | 26,326 | 28,697 | 1581 |
 | Yaml | 16,199 | 12 | 1,320 | 4 |
 | Json | 11,696 | 0 | 1 | 226 |
 | JavaScript | 1,014 | 257 | 158 | 30 |
@@ -47,30 +47,30 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,019 · **Forks**: 11,821 · **Open issues**: 16,722 · **Contributors**: 681
+- **Stars**: 27,018 · **Forks**: 11,819 · **Open issues**: 16,725 · **Contributors**: 681
 
 ## Totals (cumulative)
 
-- **Releases**: 1050 · **Merged PRs**: 14457 · **Open PRs**: 37 · **Closed issues**: 16512 · **Open issues**: 210 · **Commits**: 19049
+- **Releases**: 1050 · **Merged PRs**: 14463 · **Open PRs**: 41 · **Closed issues**: 16513 · **Open issues**: 212 · **Commits**: 19055
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 18 | 234 | 26 | 40 | 12 | 148 |
-| last60d | 2026-08-24 | 31 | 420 | 27 | 75 | 13 | 305 |
-| 90d | 2026-07-25 | 47 | 610 | 29 | 120 | 14 | 449 |
-| last180d | 2026-04-26 | 90 | 1051 | 32 | 218 | 20 | 749 |
-| 360d | 2025-10-28 | 100 | 2041 | 36 | 464 | 45 | 1509 |
-| last720d | 2024-11-02 | 100 | 3920 | 36 | 1152 | 83 | 3385 |
+| 30d | 2026-09-24 | 16 | 234 | 30 | 36 | 14 | 154 |
+| last60d | 2026-08-25 | 31 | 420 | 31 | 75 | 15 | 311 |
+| 90d | 2026-07-26 | 47 | 616 | 33 | 121 | 16 | 455 |
+| last180d | 2026-04-27 | 90 | 1053 | 36 | 219 | 22 | 755 |
+| 360d | 2025-10-29 | 100 | 2027 | 40 | 463 | 47 | 1515 |
+| last720d | 2024-11-03 | 100 | 3926 | 40 | 1152 | 85 | 3387 |
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/angular-cli). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **4** distros on [repology.org](https://repology.org/project/angular-cli). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `22.2.3` | ✅ latest |
+| Homebrew | `22.2.4` | ✅ latest |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for angular-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:35:35Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:26:11Z._
