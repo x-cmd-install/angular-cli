@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,018 · **Forks**: 11,819 · **Open issues**: 16,725 · **Contributors**: 681
+- **Stars**: 27,020 · **Forks**: 11,818 · **Open issues**: 16,728 · **Contributors**: 681
 
 ## Totals (cumulative)
 
-- **Releases**: 1050 · **Merged PRs**: 14463 · **Open PRs**: 41 · **Closed issues**: 16513 · **Open issues**: 212 · **Commits**: 19055
+- **Releases**: 1050 · **Merged PRs**: 14463 · **Open PRs**: 43 · **Closed issues**: 16516 · **Open issues**: 212 · **Commits**: 19055
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 16 | 234 | 30 | 36 | 14 | 154 |
-| last60d | 2026-08-25 | 31 | 420 | 31 | 75 | 15 | 311 |
-| 90d | 2026-07-26 | 47 | 616 | 33 | 121 | 16 | 455 |
-| last180d | 2026-04-27 | 90 | 1053 | 36 | 219 | 22 | 755 |
-| 360d | 2025-10-29 | 100 | 2027 | 40 | 463 | 47 | 1515 |
-| last720d | 2024-11-03 | 100 | 3926 | 40 | 1152 | 85 | 3387 |
+| 30d | 2026-09-25 | 16 | 223 | 31 | 39 | 14 | 122 |
+| last60d | 2026-08-26 | 31 | 407 | 33 | 76 | 15 | 271 |
+| 90d | 2026-07-27 | 47 | 611 | 35 | 124 | 16 | 420 |
+| last180d | 2026-04-28 | 90 | 1042 | 36 | 214 | 21 | 728 |
+| 360d | 2025-10-30 | 100 | 2022 | 42 | 463 | 47 | 1485 |
+| last720d | 2024-11-04 | 100 | 3920 | 42 | 1152 | 84 | 3387 |
 
 ## Distribution status
 
-Reported by **4** distros on [repology.org](https://repology.org/project/angular-cli). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/angular-cli). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -81,4 +81,4 @@ Install metadata for angular-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:26:11Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:29:48Z._
