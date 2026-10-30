@@ -2,99 +2,99 @@ about:
   description: "CLI tool for Angular"
   license: MIT
   homepage: https://cli.angular.dev
-  head: 47bc9c3
+  head: 92bb487
   archived: false
   latestVersion: "v22.3.0-next.4"
   latestRelease: "v22.2.5"
   latestPrerelease: "v22.3.0-next.4"
-  collectedAt: 2026-10-29T05:35:26Z
+  collectedAt: 2026-10-30T05:36:40Z
 timeline:
   created: 2015-06-04
-  lastCommit: 2026-10-28
+  lastCommit: 2026-10-29
   lastVersion: 2026-10-28
   lastRelease: 2026-10-28
   lastPrerelease: 2026-10-28
 popularity:
   star: 27016
   watcher: 962
-  fork: 11817
+  fork: 11812
   release: 1054
   contributor: 683
-  pullRequest: 17281
-  issue: 16732
+  pullRequest: 17299
+  issue: 16734
 language:
-  TypeScript: 7428645
+  TypeScript: 7432367
   Starlark: 117948
   HTML: 51746
   JavaScript: 36403
   EJS: 12375
   jq: 1674
   CSS: 240
-totalBytes: 7649031
+totalBytes: 7652753
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 20
-    mergedPR: 271
-    openPR: 9
-    closedIssue: 45
-    openIssue: 7
-    commit: 170
+    mergedPR: 273
+    openPR: 17
+    closedIssue: 43
+    openIssue: 9
+    commit: 179
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 31
-    mergedPR: 447
-    openPR: 11
-    closedIssue: 80
-    openIssue: 8
-    commit: 319
-  last90d:
-    since: 2026-07-31
-    release: 46
-    mergedPR: 634
-    openPR: 13
-    closedIssue: 120
+    mergedPR: 449
+    openPR: 19
+    closedIssue: 77
     openIssue: 10
-    commit: 468
+    commit: 328
+  last90d:
+    since: 2026-08-01
+    release: 46
+    mergedPR: 639
+    openPR: 21
+    closedIssue: 120
+    openIssue: 12
+    commit: 477
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 90
-    mergedPR: 1080
-    openPR: 13
+    mergedPR: 1089
+    openPR: 21
     closedIssue: 220
-    openIssue: 14
-    commit: 776
+    openIssue: 16
+    commit: 785
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
-    mergedPR: 2073
-    openPR: 17
-    closedIssue: 461
-    openIssue: 38
-    commit: 1533
+    mergedPR: 2072
+    openPR: 25
+    closedIssue: 459
+    openIssue: 40
+    commit: 1542
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
-    mergedPR: 3962
-    openPR: 17
-    closedIssue: 1150
-    openIssue: 75
-    commit: 3405
+    mergedPR: 3969
+    openPR: 25
+    closedIssue: 1148
+    openIssue: 77
+    commit: 3409
 total:
   release: 1054
-  mergedPR: 14528
-  openPR: 18
+  mergedPR: 14537
+  openPR: 26
   closedIssue: 16532
-  openIssue: 200
-  commit: 19103
+  openIssue: 202
+  commit: 19112
 ---
 path: /home/runner/.x-repo/github.com/angular/angular-cli
-collectedAt: 2026-10-29T05:35:58Z
+collectedAt: 2026-10-30T05:37:10Z
 loc:
   TypeScript:
-    code: 169335
-    comments: 26628
-    blanks: 28943
+    code: 169436
+    comments: 26627
+    blanks: 28958
     files: 1587
   Yaml:
     code: 15913
@@ -127,9 +127,9 @@ loc:
     blanks: 7547
     files: 71
 total:
-  code: 199728
-  comments: 47844
-  blanks: 38150
+  code: 199829
+  comments: 47843
+  blanks: 38165
   files: 1934
 ---
 date: "2026-08-20T16:15:52Z"
