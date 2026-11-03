@@ -14,12 +14,12 @@ x install angular-cli
 
 ## Code insight
 
-Total: **199,664** lines of code across **1859** files in the top 5 languages.
+Total: **199,837** lines of code across **1861** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 170,474 | 26,732 | 29,086 | 1590 |
-| Yaml | 15,771 | 12 | 1,317 | 4 |
+| TypeScript | 170,627 | 26,758 | 29,110 | 1592 |
+| Yaml | 15,791 | 12 | 1,318 | 4 |
 | Json | 11,696 | 0 | 1 | 226 |
 | JavaScript | 1,014 | 257 | 158 | 30 |
 | Html | 709 | 59 | 37 | 9 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v22.3.0-next.4` (2026-10-28)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-02
 
 ## Popularity
 
-- **Stars**: 27,020 · **Forks**: 11,809 · **Open issues**: 16,735 · **Contributors**: 683
+- **Stars**: 27,019 · **Forks**: 11,808 · **Open issues**: 16,735 · **Contributors**: 683
 
 ## Totals (cumulative)
 
-- **Releases**: 1054 · **Merged PRs**: 14556 · **Open PRs**: 23 · **Closed issues**: 16535 · **Open issues**: 200 · **Commits**: 19126
+- **Releases**: 1054 · **Merged PRs**: 14564 · **Open PRs**: 28 · **Closed issues**: 16536 · **Open issues**: 199 · **Commits**: 19131
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 18 | 267 | 14 | 41 | 6 | 172 |
-| last60d | 2026-09-03 | 27 | 432 | 16 | 76 | 9 | 298 |
-| 90d | 2026-08-04 | 46 | 642 | 18 | 115 | 11 | 438 |
-| last180d | 2026-05-06 | 90 | 1091 | 18 | 222 | 14 | 772 |
-| 360d | 2025-11-07 | 100 | 2064 | 22 | 458 | 37 | 1515 |
-| last720d | 2024-11-12 | 100 | 3981 | 22 | 1141 | 75 | 3420 |
+| 30d | 2026-10-04 | 18 | 275 | 19 | 42 | 5 | 175 |
+| last60d | 2026-09-04 | 27 | 437 | 21 | 77 | 8 | 301 |
+| 90d | 2026-08-05 | 46 | 629 | 23 | 110 | 10 | 441 |
+| last180d | 2026-05-07 | 89 | 1093 | 23 | 221 | 13 | 775 |
+| 360d | 2025-11-08 | 100 | 2072 | 27 | 459 | 36 | 1518 |
+| last720d | 2024-11-13 | 100 | 3984 | 27 | 1140 | 74 | 3420 |
 
 ## Distribution status
 
@@ -81,4 +81,4 @@ Install metadata for angular-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:49:44Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:32:50Z._
