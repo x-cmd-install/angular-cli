@@ -47,30 +47,30 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 27,017 · **Forks**: 11,807 · **Open issues**: 16,735 · **Contributors**: 684
+- **Stars**: 27,018 · **Forks**: 11,809 · **Open issues**: 16,735 · **Contributors**: 683
 
 ## Totals (cumulative)
 
-- **Releases**: 1056 · **Merged PRs**: 14590 · **Open PRs**: 19 · **Closed issues**: 16540 · **Open issues**: 195 · **Commits**: 19159
+- **Releases**: 1056 · **Merged PRs**: 14590 · **Open PRs**: 25 · **Closed issues**: 16540 · **Open issues**: 195 · **Commits**: 19159
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 18 | 288 | 11 | 40 | 2 | 203 |
-| last60d | 2026-09-06 | 29 | 462 | 12 | 78 | 6 | 329 |
-| 90d | 2026-08-07 | 43 | 624 | 14 | 110 | 8 | 469 |
-| last180d | 2026-05-09 | 91 | 1117 | 14 | 221 | 11 | 803 |
-| 360d | 2025-11-10 | 100 | 2084 | 18 | 457 | 33 | 1546 |
-| last720d | 2024-11-15 | 100 | 3996 | 18 | 1139 | 70 | 3440 |
+| 30d | 2026-10-07 | 18 | 278 | 17 | 39 | 2 | 203 |
+| last60d | 2026-09-07 | 29 | 459 | 18 | 78 | 6 | 329 |
+| 90d | 2026-08-08 | 43 | 623 | 20 | 108 | 7 | 469 |
+| last180d | 2026-05-10 | 91 | 1117 | 20 | 221 | 11 | 803 |
+| 360d | 2025-11-11 | 100 | 2073 | 24 | 456 | 33 | 1546 |
+| last720d | 2024-11-16 | 100 | 3992 | 24 | 1137 | 70 | 3435 |
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/angular-cli). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **4** distros on [repology.org](https://repology.org/project/angular-cli). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `22.2.5` | ✅ latest |
+| Homebrew | `22.2.5` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -81,4 +81,4 @@ Install metadata for angular-cli lives in the [x-cmd/install](https://github.com
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:29:21Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:23:59Z._
