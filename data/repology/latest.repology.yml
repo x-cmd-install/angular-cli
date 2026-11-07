@@ -13,28 +13,12 @@
 - repo: homebrew
   srcname: angular-cli
   visiblename: angular-cli
-  version: 22.2.5
+  version: 22.2.6
   origversion: null
-  status: outdated
+  status: newest
   summary: CLI tool for Angular
 - repo: openmamba
   subrepo: base
-  srcname: angular-cli
-  binnames:
-    - angular-cli
-  visiblename: angular-cli
-  version: 22.2.5
-  origversion: 22.2.5-1mamba
-  status: legacy
-  summary: CLI tool for Angular
-  maintainers:
-    - silvan@openmamba.org
-  licenses:
-    - MIT
-  categories:
-    - Applications/Web
-- repo: openmamba
-  subrepo: devel-makedist
   srcname: angular-cli
   binnames:
     - angular-cli
